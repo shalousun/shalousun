@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shalousun&show_icons=true)
+
+
 My name is **Yu Sun**
 
 - 🔭 I’m currently working on [smart-doc](https://github.com/TongchengOpenSource/smart-doc) , and working on [iLogtail](https://github.com/alibaba/ilogtail) project

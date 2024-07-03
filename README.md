@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 My name is **Yu Sun**
 
 - 🔭 I’m currently working on [smart-doc](https://github.com/TongchengOpenSource/smart-doc) , and working on [iLogtail](https://github.com/alibaba/ilogtail) project
+- 🖖 I’m currently focusing on big data cloud-native development, and Machine Learning Infrastructure Construction in the Cloud.
 
 <p align="center">
   <!-- 高级开发者 -->
